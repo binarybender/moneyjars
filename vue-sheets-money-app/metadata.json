@@ -1,0 +1,5 @@
+{
+  "name": "Vue Sheets Money App",
+  "description": "A mobile-first personal finance app using Google Sheets as a database.",
+  "requestFramePermissions": []
+}
